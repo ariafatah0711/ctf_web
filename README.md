@@ -1,9 +1,4 @@
-New CTF Platform -> [https://github.com/ariafatah0711/ctfs](https://github.com/ariafatah0711/ctfs) - [demo](https://ctf.ariaf.my.id/)
-
-
-
-
-
+# New CTF Platform -> [https://github.com/ariafatah0711/ctfs](https://github.com/ariafatah0711/ctfs) - [demo](https://ctf.ariaf.my.id/)
 
 # ✅ Panduan Lengkap Setup & Deploy Platform CTF Web_ARIA
 
