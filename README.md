@@ -1,3 +1,10 @@
+New CTF Platform -> [https://github.com/ariafatah0711/ctfs](https://github.com/ariafatah0711/ctfs) - [demo](https://ctf.ariaf.my.id/)
+
+
+
+
+
+
 # ✅ Panduan Lengkap Setup & Deploy Platform CTF Web_ARIA
 
 Platform CTF Web_ARIA adalah aplikasi latihan dan kompetisi Capture The Flag (CTF) berbasis **Vue.js**, **Next.js**, dan **Supabase**, lengkap dengan fitur manajemen challenge, leaderboard, serta autentikasi user.
